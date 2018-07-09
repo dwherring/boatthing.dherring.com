@@ -4,6 +4,5 @@
 
 layout: home
 ---
-# BoatThing
 
 Racing Performance gains through data analysis.
