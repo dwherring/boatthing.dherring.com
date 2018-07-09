@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2018 Bayfield Race Week and Around The Islands Data"
+title:  "2018 Bayfield Race Week Data"
 date:   2018-07-08 15:58:11 -0500
 categories: data gather available
 ---
