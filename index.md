@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Racing Performance gains through data analysis.
+Improving sailing performance through data analysis.
