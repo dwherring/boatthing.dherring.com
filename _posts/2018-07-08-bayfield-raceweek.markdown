@@ -15,3 +15,4 @@ Additionally two days of racing were scheduled but abandoned. Data was gathered 
 
 * Race week July 4 [data](https://s3.amazonaws.com/boatthing-data/candump-can0-2018-07-04-bin.out.gz)
 * Race week July 6 [data](https://s3.amazonaws.com/boatthing-data/candump-can0-2018-07-06-bin.out.gz)
+
